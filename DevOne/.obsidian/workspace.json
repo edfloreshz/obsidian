@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "afe77ab97622a953",
+    "type": "split",
+    "children": [
+      {
+        "id": "87f4a88a13fdbaf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da4ece31e7a65fdf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5083fea9f813faab",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f1176a821a032e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "961005ebf3e9a2e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73b65855ef96ba61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6cd1cf11511d8e30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "530db22521276595",
+    "type": "split",
+    "children": [
+      {
+        "id": "e04a1c3750714a47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff167cea8feda5c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09e4dc85226e4b1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6596a3f60de5ad91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5b77edc055aa8a70",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "961005ebf3e9a2e3",
+  "lastOpenFiles": [
+    "Programming/ActivityPub/Network.md",
+    "Programming/ActivityPub/Distributed Systems Architecture.md",
+    "Blog",
+    "Programming/ActivityPub/Go.md",
+    "Programming/ActivityPub",
+    "Programming"
+  ]
+}
