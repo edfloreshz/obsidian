@@ -1,0 +1,1 @@
+Containers can be stored in DockerHub and Azure Container Registry.

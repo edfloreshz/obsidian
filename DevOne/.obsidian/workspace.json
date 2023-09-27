@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "87f4a88a13fdbaf0",
+        "id": "05e80c38aaaceb88",
         "type": "tabs",
         "children": [
           {
-            "id": "da4ece31e7a65fdf",
+            "id": "667abf181eb42a49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Teaching/Curso de programación/Curso de programación.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Teaching/Curso de programación/Curso de programación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Teaching/Curso de programación/Curso de programación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Teaching/Curso de programación/Curso de programación.md"
+              }
             }
           }
         ]
@@ -130,21 +138,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "961005ebf3e9a2e3",
+  "active": "667abf181eb42a49",
   "lastOpenFiles": [
-    "Programming/ActivityPub/Network.md",
-    "Programming/ActivityPub/Distributed Systems Architecture.md",
-    "Blog",
-    "Programming/ActivityPub/Go.md",
-    "Programming/ActivityPub",
-    "Programming"
+    "Replit.md",
+    "Notes/Teaching/Curso de programación/Curso de programación.md",
+    "Notes/Teaching/Curso de programación/Constantes.md",
+    "Notes/Teaching/Curso de programación/Colas.md",
+    "Notes/Teaching/Curso de programación/Clases.md",
+    "Notes/Teaching/Curso de programación/Ciclo while.md",
+    "Notes/Teaching/Curso de programación/Ciclo for.md",
+    "Notes/Teaching/Curso de programación/Interfaces como contratos.md",
+    "Notes/Teaching/Curso de programación/Expresiones aritmeticas.md",
+    "Notes/Teaching/Curso de programación/Expresiones.md",
+    "Notes/Teaching/Curso de programación/Estructuras.md",
+    "Notes/Teaching/Curso de programación/Ordenamiento por burbuja.md",
+    "Notes/Teaching/Curso de programación/Ordenamiento por incrementos decrecientes (Shell).md",
+    "Notes/Teaching/Curso de programación/Ordenamiento por inserción.md",
+    "Notes/Teaching/Curso de programación/Ordenamiento por selección.md",
+    "Notes/Teaching/Curso de programación/Ordenamiento rápido.md",
+    "Ordenamiento por selección.md",
+    "Ordenamiento por incrementos decrecientes (Shell).md",
+    "Notes/Teaching/Curso de programación/Programacion estructurada.md",
+    "Curso de programación 69e28e1de05e4edcafaad79710c990b8/Declaraciones if anidados 5ad998e19ab94484a1511006d979b5b7.md",
+    "Curso de programación 69e28e1de05e4edcafaad79710c990b8",
+    "Notes/Teaching/Curso de programación/Variables.md",
+    "Notes/Teaching/Curso de programación/Uso de try catch.md",
+    "Notes/Teaching/Curso de programación/Sentencias break y continue.md",
+    "Notes/Teaching/Curso de programación/Recursion.md",
+    "Notes/Teaching/Curso de programación/Que es un lenguaje de programacion.md",
+    "Notes/Teaching/Curso de programación/Programacion orientada a objetos.md",
+    "Notes/Teaching/Curso de programación/Caracteres/Untitled.png",
+    "Notes/Teaching/Curso de programación/Que es un lenguaje de programacion/Untitled.webp",
+    "Notes/Teaching/Curso de programación/Algoritmos/Untitled.png",
+    "Claudia 895a9588fd53469199560536d873be9f",
+    "Andy 90cc369ff6934d22a4eb028f61967e18",
+    "Notes/Teaching/Claudia/Resumen de aprendizaje diario 547c90a2fa9740b18c6d527395c70934_all.csv",
+    "Notes/Teaching/Claudia/Resumen de aprendizaje diario 547c90a2fa9740b18c6d527395c70934.csv",
+    "Notes/Teaching/Claudia/Resumen de aprendizaje diario",
+    "Notes/Teaching/Claudia",
+    "Notes/Teaching/Andy/Diario de aprendizaje",
+    "Notes/Teaching/Andy",
+    "Notes/Teaching/Curso de programación/Variables",
+    "Projects/Devland/Devland.png",
+    "Notes/Learning/Azure AZ-900/Cloud Computing Service Models/ServiceModels.png",
+    "Untitled 1.png"
   ]
 }

@@ -1,0 +1,4 @@
+- Agile
+- Fault tolerant
+- No need to administrate physical assets.
+- You have more control

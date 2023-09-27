@@ -1,0 +1,3 @@
+El paradigma de programacion funcional esta diseñado a partir del concepto de funciones matematicas que utilizan expresiones condicionales y recursion.
+
+Se basa en funciones puras, esto quiere decir que no existe el estado compartido ni datos mutables como en la programacion orientada a objetos, por lo tanto, no existen consecuencias o efectos secuendarios, esto elimina una gran cantidad de posibles errores.
