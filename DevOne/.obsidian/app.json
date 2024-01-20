@@ -1,7 +1,4 @@
 {
-  "spellcheckLanguages": [
-    "en-US",
-    "es-MX"
-  ],
+  "spellcheckLanguages": null,
   "alwaysUpdateLinks": true
 }

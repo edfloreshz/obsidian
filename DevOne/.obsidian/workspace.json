@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Teaching/Curso de programación/Curso de programación.md",
+                "file": "Notes/Health/Fitness.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Teaching/Curso de programación/Curso de programación.md",
+                "file": "Notes/Health/Fitness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Teaching/Curso de programación/Curso de programación.md",
+                "file": "Notes/Health/Fitness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Teaching/Curso de programación/Curso de programación.md"
+                "file": "Notes/Health/Fitness.md"
               }
             }
           }
@@ -138,18 +138,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "canvas:Create new canvas": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "667abf181eb42a49",
   "lastOpenFiles": [
-    "Replit.md",
+    "Notes/Health/Allergies.md",
+    "Notes/Health/Fitness.md",
+    "Pasted image 20240119224948.png.md",
+    "Daily Calorie Intake.png",
+    "Pasted image 20240119224948.png",
+    "Low Calorie Foods.png",
     "Notes/Teaching/Curso de programación/Curso de programación.md",
+    "Replit.md",
     "Notes/Teaching/Curso de programación/Constantes.md",
     "Notes/Teaching/Curso de programación/Colas.md",
     "Notes/Teaching/Curso de programación/Clases.md",
@@ -172,9 +178,6 @@
     "Notes/Teaching/Curso de programación/Variables.md",
     "Notes/Teaching/Curso de programación/Uso de try catch.md",
     "Notes/Teaching/Curso de programación/Sentencias break y continue.md",
-    "Notes/Teaching/Curso de programación/Recursion.md",
-    "Notes/Teaching/Curso de programación/Que es un lenguaje de programacion.md",
-    "Notes/Teaching/Curso de programación/Programacion orientada a objetos.md",
     "Notes/Teaching/Curso de programación/Caracteres/Untitled.png",
     "Notes/Teaching/Curso de programación/Que es un lenguaje de programacion/Untitled.webp",
     "Notes/Teaching/Curso de programación/Algoritmos/Untitled.png",
